@@ -3,7 +3,7 @@
 ## ❯❯ Table of contents
 
 - **❯❯ Day 1**
-    - ❯❯ [About](#--about)
+    - ❯❯ [About](#-about)
         - ❯❯ [Section 1 - Introduction](#section-1---introduction)
         - ❯❯ [Section 2 - Setup](#section-2---introduction)
     - ❯❯ [Recording](resources/records)
@@ -11,7 +11,7 @@
     - ❯❯ [Source Code](src)
 
 ## ❯❯ About
-Our end goal here is to allow every member of this couse to have the resources and ability to create programs and learn from their mistakes. Day 1's main goal is to get the members used to the services necessary for the couse. This includes environment installation and usage.
+Our end goal here is to allow every member of this couse to have the resources and ability to create programs and learn from their mistakes. Lesson 1's main goal is to get the members used to the services necessary for the couse. This includes environment installation and usage.
 
 ### Section 1 - Introduction
 Hello, my name is Kura and I am here to teach some basics of programming. This class starts with HTML/CSS and will progress onto JS as well as standalone JS applications with the use of Node.JS and Express. 
@@ -62,9 +62,15 @@ Node.JS is the JavaScript library that we will use to create standalone applicat
 
 Download at the [Node.JS download page](https://nodejs.org/en/download) *(Link last updated: 06/07/2021)*
 
+Check Node.JS installation with: `node -v`
+
+Check NPM installation with: `npm -v`
+
 *Note:* On Windows NPM (Node Package Manager) will be automatically installed with Node.JS.
 
 #### Installing GIT
 GIT is a service that is used to connect our code files to GitHub
 
 Download at the [GIT download page](https://git-scm.com/downloads) *(Link last updated: 06/07/2021)*
+
+[Back to top](#day-1---setup-and-environment-testing)
