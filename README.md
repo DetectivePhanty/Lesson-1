@@ -5,7 +5,7 @@
 - **❯❯ Day 1**
     - ❯❯ [About](#-about)
         - ❯❯ [Section 1 - Introduction](#section-1---introduction)
-        - ❯❯ [Section 2 - Setup](#section-2---introduction)
+        - ❯❯ [Section 2 - Setup](#section-2---setup)
     - ❯❯ [Recording](resources/records)
     - ❯❯ [Transcript](resources/scripts)
     - ❯❯ [Source Code](src)
@@ -31,30 +31,38 @@ Visual Studio Code (VSC) is the editor that we will be using to create and edit 
 
 #### Step 1: Download
 Download at the [Visual Studio Code download page](https://code.visualstudio.com/download) *(Link last updated: 06/07/2021)*
+
 ![Visual Studio Code dowload page visual](assets/visual_studio_code_download_page.png)
 
 #### Step 2: Install
 Follow the instruction guide *(Last updated: 06/07/2021)*.
 
 Agree to the terms and click next.
+
 ![Visual Studio Code install page 1](assets/visual_studio_code_install_step_1.png)
 
 Keep the default location and click next.
+
 ![Visual Studio Code install page 2](assets/visual_studio_code_install_step_2.png)
 
 Keep the default value and click next.
+
 ![Visual Studio Code install page 3](assets/visual_studio_code_install_step_3.png)
 
 Select all options under "other" and click next.
+
 ![Visual Studio Code install page 4](assets/visual_studio_code_install_step_4.png)
 
 Make sure all the information so far is correct and click next.
+
 ![Visual Studio Code install page 5](assets/visual_studio_code_install_step_5.png)
 
 Wait for the application to install and click next.
+
 ![Visual Studio Code install page 6](assets/visual_studio_code_install_step_6.png)
 
 Click finish to open Visual Studio Code.
+
 ![Visual Studio Code install page 7](assets/visual_studio_code_install_step_7.png)
 
 #### Node.JS
